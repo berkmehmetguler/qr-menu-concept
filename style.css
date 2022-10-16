@@ -3,7 +3,9 @@
   margin: 0;
 
 }
-
+html {
+  scroll-behavior: smooth;
+}
 /* .background-image{
   background-image: url(./images/last-menu.png);
   width: 100%;
